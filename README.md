@@ -1,6 +1,10 @@
 # codenamesRPC
+
 discord RPC for the webbrowser game codenames
+
 i was planning on adding a way to view the role of the player as well but i cant find an easy way to do so
+
+might make a nice accessilibity shortcut from start menu in the future
 
 
 - Explanation:
@@ -13,9 +17,11 @@ after installing the extention into chrome and then running the codenames.exe it
 
 
 - Installation:
+- 
 this app is currenly only supported for windows with chrome
 
 installing the extention:
+
 0: unzip the extention file
 1. manage your chrome extentions at "chrome://extensions"
 2. turn on "developer mode" at the right top
@@ -25,3 +31,11 @@ installing the extention:
 
 - troubleshooting
 
+  check if the extention is enabled in chrome extentions
+  
+  check if the server (the command prompt) is receiving packets every 20 seconds
+  
+  check if discord activities are turned on on your account ;)
+  
+  for any additional questions feel free to add me on discord: zyrozyro
+  
