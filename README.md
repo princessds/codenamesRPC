@@ -20,6 +20,9 @@ after installing the extention into chrome and then running the codenames.exe it
 
 this app is currenly only supported for windows with chrome
 
+download the zip and extract the extention from it, then download the codenames.exe file from https://filetransfer.io/data-package/UCgGmOre  
+(idk where to store the .exe since its too large for github)
+
 installing the extention:
 
 1. unzip the extention file
