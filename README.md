@@ -17,16 +17,16 @@ after installing the extention into chrome and then running the codenames.exe it
 
 
 - Installation:
-- 
+
 this app is currenly only supported for windows with chrome
 
 installing the extention:
 
-0: unzip the extention file
-1. manage your chrome extentions at "chrome://extensions"
-2. turn on "developer mode" at the right top
-3. click "load unpacked"
-4. select the unzipped extention folder
+1. unzip the extention file
+2. manage your chrome extentions at "chrome://extensions"
+3. turn on "developer mode" at the right top
+4. click "load unpacked"
+5. select the unzipped extention folder
 
 
 - troubleshooting
