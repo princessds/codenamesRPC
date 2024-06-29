@@ -15,6 +15,8 @@ i couldnt make the extention public because google wanted me to pay $5
 
 after installing the extention into chrome and then running the codenames.exe it should update your discord RPC every 20 seconds as you play codenames
 
+the .exe was compiles by pkg from a node project, thats why its such a large file
+
 
 - Installation:
 
